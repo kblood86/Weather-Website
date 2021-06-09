@@ -3,7 +3,7 @@ img {
   }
   
   #imgsel{
-    border: lightseagreen 2px solid;
+    border: rgb(31, 165, 158) 2px solid;
   }
   
   h1, h2, h3{
@@ -51,9 +51,6 @@ img {
   
   .col {
     width: 100%;
-    /* border: black 1px solid; */
-    /* Font color */
-    /* color:blue;  */
   } 
   
   .homebtn{
@@ -92,7 +89,6 @@ img {
   
   .divbtm {
     width:100%;
-    /* position:absolute; */
     bottom:0;
     background-color: gray;
     z-index:0;
